@@ -4,3 +4,4 @@ pathlib
 pytesseract
 pdf2image
 PIL
+streamlit
